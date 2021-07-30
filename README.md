@@ -4,6 +4,7 @@
 - `git clone https://github.com/shahinvx/EXP_Discord.git`
 - `cd EXP_Discord`
 - `pip install -r requirements.txt`
+- `python unzip.py`
 - `python manage.py runserver`
 - `open http://127.0.0.1:8000/`
 
