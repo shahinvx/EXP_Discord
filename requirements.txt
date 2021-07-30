@@ -1,0 +1,7 @@
+Django
+nltk
+tflearn
+tensorflow
+asyncio
+discord.py
+drf-yasg
