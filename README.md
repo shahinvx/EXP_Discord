@@ -6,7 +6,7 @@
 - `pip install -r requirements.txt`
 - `python unzip.py`
 - `python manage.py runserver`
-- `open http://127.0.0.1:8000/`
+- `open http://127.0.0.1:8000/ in your browser`
 
 # All API in Swagger Documentation
 
