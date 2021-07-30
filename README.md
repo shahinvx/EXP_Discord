@@ -12,3 +12,11 @@
 
 - `http://127.0.0.1:8000/swagger/`
 - `http://127.0.0.1:8000/redoc/`
+
+# Swegger Documentation preview
+
+![Swegger Documentation](/api_images/swegger_ap.PNG)
+
+# Redoc Documentation preview
+
+![Redoc Documentation](/api_images/redoc.PNG)
