@@ -1,4 +1,4 @@
-# Run
+# Run Django app (instructions)
 
 - `install PostgreSQL in your local machine`
 - `git clone https://github.com/shahinvx/EXP_Discord.git`
